@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-[Github Page](https://mnchrd.github.io/)
+[Home page](https://mnchrd.github.io/)
 
 
