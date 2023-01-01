@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello there 👋
+
+Jestem początkującym programistą, obecnie studiującym na Akademii Górniczo-Hutniczej w Krakowie.
+
+Szczególnie interesuję się teorią układów dynamicznych oraz powiązaną z nimi analiza funkcjonalną.
+
+### Kilka linków:
 
 [Home page](https://mnchrd.github.io/)
 
